@@ -1,0 +1,31 @@
+Project Setup Instructions
+-------------------------
+
+Requirements:
+- Python 3.7 or above
+- Jupyter Notebook installed (via pip or Anaconda)
+
+-------------------------
+Step 1 — Create Virtual Environment: 
+
+Windows (PowerShell):
+    python -m venv venv
+    .\venv\Scripts\activate
+
+macOS / Linux:
+    python3 -m venv venv
+    source venv/bin/activate
+
+If you face an access error in Windows:
+    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+-------------------------
+Step 2 — Install Packages
+
+    pip install -r requirements.txt
+
+-------------------------
+Step 3 — Run the Notebook
+
+    jupyter notebook potato_yield_prediction.ipynb
+
