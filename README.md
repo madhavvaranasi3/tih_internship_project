@@ -1,4 +1,4 @@
-# Potato Yield Prediction – TIH Internship Project
+## Potato Yield Prediction Using Machine Learning and Deep Learning Models – TIH Internship Project
 
 ## Overview
 Accurate crop yield forecasting enables better agricultural decision-making and supports improved water resource management. In this project, potato yield is predicted by analyzing reservoir and field-related parameters through a structured machine learning workflow that progresses from data cleaning to model evaluation, including advanced neural network models.
